@@ -6,6 +6,6 @@ package com.gr;
 public class MyTest {
 
     public static void main(String[] args) {
-        System.out.println("Grisha");
+        System.out.println("Grisha " + Math.PI);
     }
 }
